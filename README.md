@@ -52,8 +52,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/yeahhe365/Prisma.git
-cd Prisma
+cd prisma
 ```
 
 ### 2. 安装依赖

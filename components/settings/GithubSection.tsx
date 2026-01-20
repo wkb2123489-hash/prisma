@@ -20,7 +20,7 @@ const GithubSection = ({ isOpen }: { isOpen: boolean }) => {
 
   return (
     <div className="border-t border-slate-100 pt-6">
-      <a 
+      {/* <a 
         href="https://github.com/yeahhe365/Prisma" 
         target="_blank" 
         rel="noopener noreferrer"
@@ -42,7 +42,7 @@ const GithubSection = ({ isOpen }: { isOpen: boolean }) => {
             <span className="text-xs font-bold text-slate-700">{stars.toLocaleString()}</span>
           </div>
         )}
-      </a>
+      </a> */}
     </div>
   );
 };
